@@ -23,23 +23,14 @@ class drizzleRanks(commands.Cog):
         )
         embed.description = """
                 > Chairperson
-                
                 > Vice-Chairperson
-                
                 > Executive
-                
                 > Public Relations Officer
-                
                 > Board of Directors
-                
                 > Shift Manager
-                
                 > Supervisor
-                
                 > Security
-                
                 > Receptionist
-                
                 > Trainee
             """
         embed.color = self.bot.main_color
